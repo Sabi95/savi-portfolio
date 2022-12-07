@@ -1,19 +1,14 @@
-- name: Longest Word Game
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: Not Aone
+  description: A volunteer recruitment site/database developed in partnership with OpSAFE, an NPO that hosts camps for kids that have suffered from traumatic experiences. Not Alone allows camp organizers setting up a new camp page to immediately contact existing volunteers in the location of the new camp for recruitment.
+  image: projects/NotAlone.png
+  url: https://www.not-alone.online
 
-- name: Movie Watchlist
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: Homestopia
+  description: A marketplace web application with a concentration on sharing homestay experiences. Find a family to host you anywhere in the world, or host your own traveller from abroad.
+  image: projects/Homestopia.png
+  url: https://www.homestopiaa.herokuapp.com/
 
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: Savi's Watchlist
+  description: A small web application to keep track all my favourite movies
+  image: projects/Watchlist.png
+  url: https://savi-watch-list.herokuapp.com/
