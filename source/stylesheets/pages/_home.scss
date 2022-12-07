@@ -1,1 +1,48 @@
-// Specific CSS for your home-page
+body {
+  background-image: url('../../images/pngwing1.png'), linear-gradient(to top,#c3f7fe,#f7fffe);
+  background-size: cover;
+  background-position: center 90%;
+  background-attachment: fixed;
+  color: rgb(67, 67, 67);
+  background-color: rgba(0,0,0,0.25);
+}
+
+#about {
+  background-color: #f7fffe;
+  border-radius: 16px;
+  padding: 30px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+  h2 {
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 8px;
+    font-family: "Nunito", "Helvetica", "sans-serif";
+    border-bottom: 1px solid grey;
+    margin-bottom: 24px;
+  }
+
+  p {
+    text-indent: 2em
+  }
+}
+
+#projects {
+  background-color: #f7fffe;
+  border-radius: 16px;
+  padding: 30px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+  h2 {
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 8px;
+    font-family: "Nunito", "Helvetica", "sans-serif";
+    border-bottom: 1px solid grey;
+    margin-bottom: 8px;
+  }
+
+  p {
+    text-indent: 2em
+  }
+}
