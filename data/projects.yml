@@ -9,6 +9,6 @@
   url: https://www.homestopiaa.herokuapp.com/
 
 - name: Savi's Watchlist
-  description: A small web application to keep track all my favourite movies
+  description: A small web application to keep track of movies you have watched or would like to watch. You can also organize movie lists by genre!
   image: projects/Watchlist.png
   url: https://savi-watch-list.herokuapp.com/
