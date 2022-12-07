@@ -1,0 +1,1 @@
+<% set_meta_tags(title: "Savi's Portfolio", og: { image: 'profile.jpg' } ) %>
