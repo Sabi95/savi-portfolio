@@ -3,15 +3,18 @@
   image: projects/NotAlone.png
   url: https://www.not-alone.online
   languages: <i class="devicon-ruby-plain colored icon"></i> <i class="devicon-rails-plain colored icon"></i> <i class="devicon-javascript-plain colored icon"></i> <i class="devicon-css3-plain colored icon"></i> <i class="devicon-html5-plain colored icon"></i>
+  gitpage: https://github.com/Sabi95/not_alone
 
 - name: Homestopia
   description: Homestopia is a marketplace appwith the aim of helping users find a host family for homestay experience anywhere in the world. There is also the option for users to host their own traveller from abroad!
   image: projects/Homestopia.png
   url: https://www.homestopiaa.herokuapp.com/
   languages: <i class="devicon-ruby-plain colored icon"></i> <i class="devicon-rails-plain colored icon"></i> <i class="devicon-javascript-plain colored icon"></i> <i class="devicon-css3-plain colored icon"></i> <i class="devicon-html5-plain colored icon"></i>
+  gitpage: https://github.com/Sabi95/homestopia
 
 - name: Savi's Watchlist
   description: A small web application to keep track of movies you have watched or would like to watch. You can also organize movie lists by genre!
   image: projects/Watchlist.png
   url: https://savi-watch-list.herokuapp.com/
   languages: <i class="devicon-ruby-plain colored icon"></i> <i class="devicon-rails-plain colored icon"></i> <i class="devicon-css3-plain colored icon"></i> <i class="devicon-html5-plain colored icon"></i>
+  gitpage: https://github.com/Sabi95/rails-watch-list
