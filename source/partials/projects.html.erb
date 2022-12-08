@@ -15,6 +15,10 @@
                   <% end %>
                 </div>
                 <p class='mb-4'><%= project.description %></p>
+                <div class="button-social">
+                  <i class="fa-brands fa-github icon"></i>
+                  <%= link_to "", "project.gitpage", target: '_blank', class: 'button-social-link' %>
+                </div>
                 <p><%= project.languages %></p>
               </div>
             </div>
