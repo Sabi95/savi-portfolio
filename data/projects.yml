@@ -5,7 +5,7 @@
   languages: <i class="devicon-ruby-plain colored icon"></i> <i class="devicon-rails-plain colored icon"></i> <i class="devicon-javascript-plain colored icon"></i> <i class="devicon-css3-plain colored icon"></i> <i class="devicon-html5-plain colored icon"></i>
 
 - name: Homestopia
-  description: A marketplace web application with a concentration on sharing homestay experiences. Find a family to host you anywhere in the world, or host your own traveller from abroad.
+  description: Homestopia is a marketplace appwith the aim of helping users find a host family for homestay experience anywhere in the world. There is also the option for users to host their own traveller from abroad!
   image: projects/Homestopia.png
   url: https://www.homestopiaa.herokuapp.com/
   languages: <i class="devicon-ruby-plain colored icon"></i> <i class="devicon-rails-plain colored icon"></i> <i class="devicon-javascript-plain colored icon"></i> <i class="devicon-css3-plain colored icon"></i> <i class="devicon-html5-plain colored icon"></i>
