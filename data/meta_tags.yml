@@ -1,1 +1,6 @@
-<% set_meta_tags(title: "Savi's Portfolio", og: { image: 'profile.jpg' } ) %>
+# <% set_meta_tags(title: "Savi's Portfolio", og: { image: 'profile.jpg' } ) %>
+
+project_name: "Savi's Portfolio - Full Stack Developer"
+title: "Savi's Portfolio - Full Stack Developer"
+description: "A brief look at some of my work"
+image: "profile.jpg"
