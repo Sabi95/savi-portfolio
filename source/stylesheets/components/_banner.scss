@@ -8,10 +8,12 @@
 }
 
 // Small devices (landscape phones, 576px and up)
-@media (min-width: 576px) {
+@media (min-width: 100px) and (max-width: 575px)  {
   .banner {
-    h1 {
-      text-align: center;
-    }
+    height: 50vh
+  }
+
+  .title-main {
+    margin-top: 1.5em;
   }
 }
