@@ -57,6 +57,23 @@
   .external-link {
     opacity: 1;
   }
+  .card-product {
+      display: contents;
+  }
+
+  .card-product img {
+    width: 100%;
+  }
+
+  .cards {
+    grid-gap: 0px;
+  }
+
+  .card-product .card-product-infos {
+    padding:16px;
+    margin-bottom: 2rem;
+    border-bottom: .5px solid lightgray;
+  }
 }
 
 // Small devices (landscape phones, 576px and up)
