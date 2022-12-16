@@ -42,3 +42,31 @@ body {
     margin-bottom: 24px;
   }
 }
+
+@media (min-width: 100px) and (max-width: 575px)  {
+  #about {
+    padding: 16px;
+  }
+
+  #about h2 {
+    font-size: 18px;
+  }
+
+  #about p {
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 100px) and (max-width: 575px)  {
+  #projects {
+    padding: 16px;
+  }
+
+  #projects h2 {
+    font-size: 18px;
+  }
+
+  #projects p {
+    font-size: 12px;
+  }
+}
