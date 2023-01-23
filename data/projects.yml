@@ -19,7 +19,7 @@
   languages: <i class="devicon-ruby-plain colored icon"></i> <i class="devicon-rails-plain colored icon"></i> <i class="devicon-css3-plain colored icon"></i> <i class="devicon-html5-plain colored icon"></i>
   gitpage: https://github.com/Sabi95/rails-watch-list
 
-- name: Adopt-Me (Work-in-Progress) - Fullstack Developer
+- name: Adopt-Me (In Progress) - Fullstack Developer
   description: A helpful little web application that let's you find and adopt pets in North America!
   image: projects/Adopt-Me.png
   url: https://adopt-me-2023.netlify.app/
