@@ -23,5 +23,5 @@
   description: A helpful little web application that let's you find and adopt pets in North America!
   image: projects/Adopt-Me.png
   url: https://adopt-me-2023.netlify.app/
-  languages: <i class="devicon-react-original colored size"></i> <i class="devicon-css3-plain colored icon"></i> <i class="devicon-html5-plain colored icon"></i>
+  languages: <i class="devicon-react-original colored size"></i> <i class="devicon-javascript-plain colored icon"></i> <i class="devicon-css3-plain colored icon"></i> <i class="devicon-html5-plain colored icon"></i>
   gitpage: https://github.com/Sabi95/Adopt-Me
